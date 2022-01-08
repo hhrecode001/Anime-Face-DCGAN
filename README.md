@@ -2,9 +2,9 @@
 DCGAN model for anime face generator
 
 ## Lore
-https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
-https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN
-https://arxiv.org/pdf/1511.06434.pdf
+1. https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
+1. https://github.com/spmallick/learnopencv/tree/master/Deep-Convolutional-GAN
+1. https://arxiv.org/pdf/1511.06434.pdf
 
 ## Dataset
 https://github.com/bchao1/Anime-Face-Dataset
