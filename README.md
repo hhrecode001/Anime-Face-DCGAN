@@ -1,8 +1,7 @@
 # Anime-Face-DCGAN
 **DCGAN model for anime face generator**
 
-Deep Convolutional Generative Adversarial Network (DC-GAN) is wide known deep learning architechture for image generating. This project utilize DCGAN for anime style face generating.
-The result is in the `/result` directory.
+The Deep Convolutional Generative Adversarial Network (DC-GAN) is a widely known deep learning architecture for image generation. This project utilises DCGAN for anime-style face-generating. The result is in the /result directory.
 
 ## Lore
 1. https://learnopencv.com/deep-convolutional-gan-in-pytorch-and-tensorflow/
